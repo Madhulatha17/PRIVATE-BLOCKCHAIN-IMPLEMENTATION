@@ -6,9 +6,9 @@
 - MetaMask
 - Web3.js
 
+# Steps
 
-
-## 1: Create Private Blockchain
+1: Create Private Blockchain
 
 bash
 geth init config/genesis.json
